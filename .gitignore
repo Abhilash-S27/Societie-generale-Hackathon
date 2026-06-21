@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+
+# IDE
+.vscode/
+.idea/
+
+# Puppeteer browser / pptx-gen deps
+docs/pptx-gen/node_modules/
+docs/pptx-gen/.cache/
+
+# Debug screenshots
+docs/pptx-gen/slides/debug-*.png
+docs/pptx-gen/screenshot-app.js
+
+# Large video files
+*.mp4
+*.mov
+*.avi
+
+# Slide QA thumbnails (generated locally)
+docs/pptx-gen/slides/slide-*.png

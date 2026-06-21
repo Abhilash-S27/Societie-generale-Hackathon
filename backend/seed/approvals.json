@@ -1,0 +1,3826 @@
+[
+  {
+    "id": "APR-00001",
+    "exception_id": "EXC00000",
+    "actor": "APR-00001",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-03-21T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00002",
+    "exception_id": "EXC00001",
+    "actor": "APR-00002",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-10-23T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00003",
+    "exception_id": "EXC00002",
+    "actor": "APR-00003",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-03-11T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00004",
+    "exception_id": "EXC00003",
+    "actor": "APR-00004",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-06-07T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00005",
+    "exception_id": "EXC00004",
+    "actor": "APR-00005",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-08-17T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00006",
+    "exception_id": "EXC00005",
+    "actor": "APR-00006",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-07-22T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00007",
+    "exception_id": "EXC00006",
+    "actor": "APR-00007",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-02-06T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00008",
+    "exception_id": "EXC00008",
+    "actor": "APR-00009",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-01-26T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00009",
+    "exception_id": "EXC00009",
+    "actor": "APR-00010",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2026-02-13T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00010",
+    "exception_id": "EXC00010",
+    "actor": "APR-00011",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-10-05T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00011",
+    "exception_id": "EXC00011",
+    "actor": "APR-00012",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-10-05T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00012",
+    "exception_id": "EXC00012",
+    "actor": "APR-00013",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-10-08T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00013",
+    "exception_id": "EXC00013",
+    "actor": "APR-00014",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2026-03-24T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00014",
+    "exception_id": "EXC00014",
+    "actor": "APR-00015",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-02-22T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00015",
+    "exception_id": "EXC00015",
+    "actor": "APR-00016",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-11-21T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00016",
+    "exception_id": "EXC00016",
+    "actor": "APR-00017",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-07-04T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00017",
+    "exception_id": "EXC00018",
+    "actor": "APR-00019",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-12-28T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00018",
+    "exception_id": "EXC00019",
+    "actor": "APR-00020",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2026-01-27T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00019",
+    "exception_id": "EXC00021",
+    "actor": "APR-00022",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-12-22T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00020",
+    "exception_id": "EXC00022",
+    "actor": "APR-00023",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-02-11T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00021",
+    "exception_id": "EXC00023",
+    "actor": "APR-00024",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-11-10T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00022",
+    "exception_id": "EXC00024",
+    "actor": "APR-00025",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-07-27T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00023",
+    "exception_id": "EXC00025",
+    "actor": "APR-00026",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-11-13T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00024",
+    "exception_id": "EXC00026",
+    "actor": "APR-00027",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-09-27T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00025",
+    "exception_id": "EXC00029",
+    "actor": "APR-00030",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-05-16T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00026",
+    "exception_id": "EXC00030",
+    "actor": "APR-00031",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-03-01T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00027",
+    "exception_id": "EXC00032",
+    "actor": "APR-00033",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-05-22T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00028",
+    "exception_id": "EXC00033",
+    "actor": "APR-00034",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2026-02-07T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00029",
+    "exception_id": "EXC00034",
+    "actor": "APR-00035",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-02-08T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00030",
+    "exception_id": "EXC00035",
+    "actor": "APR-00036",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-09-17T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00031",
+    "exception_id": "EXC00038",
+    "actor": "APR-00039",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-02-03T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00032",
+    "exception_id": "EXC00039",
+    "actor": "APR-00040",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-06-06T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00033",
+    "exception_id": "EXC00040",
+    "actor": "APR-00041",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-06-26T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00034",
+    "exception_id": "EXC00041",
+    "actor": "APR-00042",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-05-28T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00035",
+    "exception_id": "EXC00042",
+    "actor": "APR-00043",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-09-08T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00036",
+    "exception_id": "EXC00043",
+    "actor": "APR-00044",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2026-01-10T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00037",
+    "exception_id": "EXC00044",
+    "actor": "APR-00045",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-12-08T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00038",
+    "exception_id": "EXC00045",
+    "actor": "APR-00046",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-06-06T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00039",
+    "exception_id": "EXC00046",
+    "actor": "APR-00047",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-05-20T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00040",
+    "exception_id": "EXC00047",
+    "actor": "APR-00048",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2026-03-27T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00041",
+    "exception_id": "EXC00048",
+    "actor": "APR-00049",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-07-29T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00042",
+    "exception_id": "EXC00052",
+    "actor": "APR-00053",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-09-02T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00043",
+    "exception_id": "EXC00053",
+    "actor": "APR-00054",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2026-03-27T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00044",
+    "exception_id": "EXC00054",
+    "actor": "APR-00055",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-08-25T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00045",
+    "exception_id": "EXC00056",
+    "actor": "APR-00057",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-03-12T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00046",
+    "exception_id": "EXC00057",
+    "actor": "APR-00058",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2026-01-12T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00047",
+    "exception_id": "EXC00058",
+    "actor": "APR-00059",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-02-05T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00048",
+    "exception_id": "EXC00060",
+    "actor": "APR-00061",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-10-28T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00049",
+    "exception_id": "EXC00061",
+    "actor": "APR-00062",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2026-04-15T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00050",
+    "exception_id": "EXC00064",
+    "actor": "APR-00065",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-05-03T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00051",
+    "exception_id": "EXC00065",
+    "actor": "APR-00066",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-09-19T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00052",
+    "exception_id": "EXC00066",
+    "actor": "APR-00067",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-07-27T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00053",
+    "exception_id": "EXC00067",
+    "actor": "APR-00068",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-12-13T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00054",
+    "exception_id": "EXC00068",
+    "actor": "APR-00069",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-03-31T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00055",
+    "exception_id": "EXC00069",
+    "actor": "APR-00070",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-06-12T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00056",
+    "exception_id": "EXC00070",
+    "actor": "APR-00071",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-11-01T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00057",
+    "exception_id": "EXC00071",
+    "actor": "APR-00072",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-08-03T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00058",
+    "exception_id": "EXC00072",
+    "actor": "APR-00073",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-11-21T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00059",
+    "exception_id": "EXC00073",
+    "actor": "APR-00074",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2026-02-07T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00060",
+    "exception_id": "EXC00074",
+    "actor": "APR-00075",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-04-13T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00061",
+    "exception_id": "EXC00075",
+    "actor": "APR-00076",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2026-02-17T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00062",
+    "exception_id": "EXC00076",
+    "actor": "APR-00077",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-02-17T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00063",
+    "exception_id": "EXC00077",
+    "actor": "APR-00078",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-12-06T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00064",
+    "exception_id": "EXC00078",
+    "actor": "APR-00079",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-07-20T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00065",
+    "exception_id": "EXC00079",
+    "actor": "APR-00080",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-06-18T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00066",
+    "exception_id": "EXC00080",
+    "actor": "APR-00081",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-09-15T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00067",
+    "exception_id": "EXC00081",
+    "actor": "APR-00082",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-11-05T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00068",
+    "exception_id": "EXC00082",
+    "actor": "APR-00083",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-12-06T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00069",
+    "exception_id": "EXC00083",
+    "actor": "APR-00084",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-06-05T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00070",
+    "exception_id": "EXC00084",
+    "actor": "APR-00085",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-06-27T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00071",
+    "exception_id": "EXC00086",
+    "actor": "APR-00087",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-01-01T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00072",
+    "exception_id": "EXC00087",
+    "actor": "APR-00088",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-12-10T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00073",
+    "exception_id": "EXC00088",
+    "actor": "APR-00089",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-07-20T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00074",
+    "exception_id": "EXC00089",
+    "actor": "APR-00006",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-11-17T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00075",
+    "exception_id": "EXC00090",
+    "actor": "APR-00090",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-08-26T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00076",
+    "exception_id": "EXC00091",
+    "actor": "APR-00091",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-09-28T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00077",
+    "exception_id": "EXC00092",
+    "actor": "APR-00092",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-04-20T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00078",
+    "exception_id": "EXC00093",
+    "actor": "APR-00093",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-06-21T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00079",
+    "exception_id": "EXC00094",
+    "actor": "APR-00094",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-11-27T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00080",
+    "exception_id": "EXC00095",
+    "actor": "APR-00095",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-10-06T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00081",
+    "exception_id": "EXC00096",
+    "actor": "APR-00096",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-09-18T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00082",
+    "exception_id": "EXC00097",
+    "actor": "APR-00097",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-10-13T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00083",
+    "exception_id": "EXC00098",
+    "actor": "APR-00098",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-04-19T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00084",
+    "exception_id": "EXC00102",
+    "actor": "APR-00102",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-10-16T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00085",
+    "exception_id": "EXC00103",
+    "actor": "APR-00103",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-12-15T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00086",
+    "exception_id": "EXC00105",
+    "actor": "APR-00105",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-07-23T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00087",
+    "exception_id": "EXC00106",
+    "actor": "APR-00106",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-08-30T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00088",
+    "exception_id": "EXC00108",
+    "actor": "APR-00108",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-09-19T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00089",
+    "exception_id": "EXC00111",
+    "actor": "APR-00111",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-04-27T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00090",
+    "exception_id": "EXC00112",
+    "actor": "APR-00112",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-11-21T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00091",
+    "exception_id": "EXC00113",
+    "actor": "APR-00113",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2026-01-22T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00092",
+    "exception_id": "EXC00114",
+    "actor": "APR-00114",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-06-14T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00093",
+    "exception_id": "EXC00115",
+    "actor": "APR-00115",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2026-02-14T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00094",
+    "exception_id": "EXC00116",
+    "actor": "APR-00116",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-08-13T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00095",
+    "exception_id": "EXC00117",
+    "actor": "APR-00117",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-08-12T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00096",
+    "exception_id": "EXC00118",
+    "actor": "APR-00118",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-09-11T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00097",
+    "exception_id": "EXC00120",
+    "actor": "APR-00120",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-11-10T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00098",
+    "exception_id": "EXC00121",
+    "actor": "APR-00121",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-09-07T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00099",
+    "exception_id": "EXC00124",
+    "actor": "APR-00124",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-09-16T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00100",
+    "exception_id": "EXC00125",
+    "actor": "APR-00125",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2026-01-08T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00101",
+    "exception_id": "EXC00127",
+    "actor": "APR-00127",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-09-19T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00102",
+    "exception_id": "EXC00129",
+    "actor": "APR-00129",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-08-15T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00103",
+    "exception_id": "EXC00130",
+    "actor": "APR-00130",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-05-02T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00104",
+    "exception_id": "EXC00131",
+    "actor": "APR-00131",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2026-04-03T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00105",
+    "exception_id": "EXC00132",
+    "actor": "APR-00132",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-12-14T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00106",
+    "exception_id": "EXC00133",
+    "actor": "APR-00133",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-07-11T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00107",
+    "exception_id": "EXC00134",
+    "actor": "APR-00134",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-01-21T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00108",
+    "exception_id": "EXC00135",
+    "actor": "APR-00135",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-07-16T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00109",
+    "exception_id": "EXC00137",
+    "actor": "APR-00137",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-12-01T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00110",
+    "exception_id": "EXC00138",
+    "actor": "APR-00138",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-01-07T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00111",
+    "exception_id": "EXC00139",
+    "actor": "APR-00139",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-08-26T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00112",
+    "exception_id": "EXC00140",
+    "actor": "APR-00140",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-11-05T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00113",
+    "exception_id": "EXC00142",
+    "actor": "APR-00142",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-10-30T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00114",
+    "exception_id": "EXC00143",
+    "actor": "APR-00143",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-06-29T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00115",
+    "exception_id": "EXC00146",
+    "actor": "APR-00146",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-08-06T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00116",
+    "exception_id": "EXC00147",
+    "actor": "APR-00147",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-06-14T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00117",
+    "exception_id": "EXC00148",
+    "actor": "APR-00148",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-08-19T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00118",
+    "exception_id": "EXC00149",
+    "actor": "APR-00149",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-06-14T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00119",
+    "exception_id": "EXC00150",
+    "actor": "APR-00150",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-03-06T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00120",
+    "exception_id": "EXC00151",
+    "actor": "APR-00151",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-09-11T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00121",
+    "exception_id": "EXC00152",
+    "actor": "APR-00152",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-02-25T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00122",
+    "exception_id": "EXC00153",
+    "actor": "APR-00153",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2026-04-14T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00123",
+    "exception_id": "EXC00154",
+    "actor": "APR-00154",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-08-28T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00124",
+    "exception_id": "EXC00156",
+    "actor": "APR-00156",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-03-31T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00125",
+    "exception_id": "EXC00157",
+    "actor": "APR-00157",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-11-11T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00126",
+    "exception_id": "EXC00158",
+    "actor": "APR-00158",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-08-12T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00127",
+    "exception_id": "EXC00160",
+    "actor": "APR-00007",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-09-20T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00128",
+    "exception_id": "EXC00161",
+    "actor": "APR-00160",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2026-02-16T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00129",
+    "exception_id": "EXC00162",
+    "actor": "APR-00161",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-03-25T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00130",
+    "exception_id": "EXC00164",
+    "actor": "APR-00163",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-11-10T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00131",
+    "exception_id": "EXC00165",
+    "actor": "APR-00164",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2026-01-11T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00132",
+    "exception_id": "EXC00167",
+    "actor": "APR-00166",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2026-02-27T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00133",
+    "exception_id": "EXC00168",
+    "actor": "APR-00167",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-10-18T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00134",
+    "exception_id": "EXC00169",
+    "actor": "APR-00168",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-07-04T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00135",
+    "exception_id": "EXC00172",
+    "actor": "APR-00170",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-09-26T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00136",
+    "exception_id": "EXC00173",
+    "actor": "APR-00031",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2026-04-09T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00137",
+    "exception_id": "EXC00174",
+    "actor": "APR-00171",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-03-30T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00138",
+    "exception_id": "EXC00176",
+    "actor": "APR-00173",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-04-28T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00139",
+    "exception_id": "EXC00177",
+    "actor": "APR-00174",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2026-02-19T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00140",
+    "exception_id": "EXC00178",
+    "actor": "APR-00175",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-07-08T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00141",
+    "exception_id": "EXC00179",
+    "actor": "APR-00176",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-11-08T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00142",
+    "exception_id": "EXC00180",
+    "actor": "APR-00177",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-03-21T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00143",
+    "exception_id": "EXC00181",
+    "actor": "APR-00178",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-11-21T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00144",
+    "exception_id": "EXC00183",
+    "actor": "APR-00180",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-10-19T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00145",
+    "exception_id": "EXC00184",
+    "actor": "APR-00181",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-06-10T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00146",
+    "exception_id": "EXC00185",
+    "actor": "APR-00123",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-06-12T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00147",
+    "exception_id": "EXC00186",
+    "actor": "APR-00182",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-05-23T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00148",
+    "exception_id": "EXC00187",
+    "actor": "APR-00183",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-05-03T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00149",
+    "exception_id": "EXC00188",
+    "actor": "APR-00184",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-04-08T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00150",
+    "exception_id": "EXC00189",
+    "actor": "APR-00185",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-12-14T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00151",
+    "exception_id": "EXC00190",
+    "actor": "APR-00186",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-03-20T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00152",
+    "exception_id": "EXC00191",
+    "actor": "APR-00187",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-10-05T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00153",
+    "exception_id": "EXC00192",
+    "actor": "APR-00188",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-06-28T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00154",
+    "exception_id": "EXC00194",
+    "actor": "APR-00190",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-03-14T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00155",
+    "exception_id": "EXC00195",
+    "actor": "APR-00191",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-10-08T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00156",
+    "exception_id": "EXC00196",
+    "actor": "APR-00192",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-01-22T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00157",
+    "exception_id": "EXC00197",
+    "actor": "APR-00193",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-07-14T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00158",
+    "exception_id": "EXC00198",
+    "actor": "APR-00194",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-01-17T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00159",
+    "exception_id": "EXC00199",
+    "actor": "APR-00195",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-11-16T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00160",
+    "exception_id": "EXC00203",
+    "actor": "APR-00199",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-05-22T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00161",
+    "exception_id": "EXC00205",
+    "actor": "APR-00201",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-05-31T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00162",
+    "exception_id": "EXC00206",
+    "actor": "APR-00202",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-12-12T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00163",
+    "exception_id": "EXC00207",
+    "actor": "APR-00203",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2026-04-02T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00164",
+    "exception_id": "EXC00208",
+    "actor": "APR-00204",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-04-18T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00165",
+    "exception_id": "EXC00209",
+    "actor": "APR-00205",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2026-01-19T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00166",
+    "exception_id": "EXC00210",
+    "actor": "APR-00206",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-09-13T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00167",
+    "exception_id": "EXC00211",
+    "actor": "APR-00207",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-08-20T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00168",
+    "exception_id": "EXC00212",
+    "actor": "APR-00208",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-02-26T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00169",
+    "exception_id": "EXC00213",
+    "actor": "APR-00209",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2026-01-09T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00170",
+    "exception_id": "EXC00214",
+    "actor": "APR-00210",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-06-30T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00171",
+    "exception_id": "EXC00215",
+    "actor": "APR-00211",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-05-22T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00172",
+    "exception_id": "EXC00216",
+    "actor": "APR-00212",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-06-11T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00173",
+    "exception_id": "EXC00217",
+    "actor": "APR-00213",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-05-22T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00174",
+    "exception_id": "EXC00218",
+    "actor": "APR-00214",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-04-17T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00175",
+    "exception_id": "EXC00219",
+    "actor": "APR-00215",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2026-03-20T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00176",
+    "exception_id": "EXC00222",
+    "actor": "APR-00218",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-02-27T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00177",
+    "exception_id": "EXC00223",
+    "actor": "APR-00219",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-06-25T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00178",
+    "exception_id": "EXC00224",
+    "actor": "APR-00220",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-03-11T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00179",
+    "exception_id": "EXC00225",
+    "actor": "APR-00221",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-06-29T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00180",
+    "exception_id": "EXC00227",
+    "actor": "APR-00223",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2026-03-27T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00181",
+    "exception_id": "EXC00228",
+    "actor": "APR-00224",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-05-29T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00182",
+    "exception_id": "EXC00229",
+    "actor": "APR-00225",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-09-21T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00183",
+    "exception_id": "EXC00230",
+    "actor": "APR-00226",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-08-30T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00184",
+    "exception_id": "EXC00231",
+    "actor": "APR-00024",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-09-11T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00185",
+    "exception_id": "EXC00232",
+    "actor": "APR-00227",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-04-16T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00186",
+    "exception_id": "EXC00233",
+    "actor": "APR-00228",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2026-01-29T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00187",
+    "exception_id": "EXC00234",
+    "actor": "APR-00229",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-09-04T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00188",
+    "exception_id": "EXC00236",
+    "actor": "APR-00231",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-07-09T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00189",
+    "exception_id": "EXC00237",
+    "actor": "APR-00232",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2026-04-13T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00190",
+    "exception_id": "EXC00238",
+    "actor": "APR-00233",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-04-11T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00191",
+    "exception_id": "EXC00239",
+    "actor": "APR-00234",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-10-05T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00192",
+    "exception_id": "EXC00240",
+    "actor": "APR-00235",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-03-21T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00193",
+    "exception_id": "EXC00241",
+    "actor": "APR-00236",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2026-04-16T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00194",
+    "exception_id": "EXC00243",
+    "actor": "APR-00238",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2026-01-31T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00195",
+    "exception_id": "EXC00245",
+    "actor": "APR-00240",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-11-19T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00196",
+    "exception_id": "EXC00246",
+    "actor": "APR-00241",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-04-22T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00197",
+    "exception_id": "EXC00247",
+    "actor": "APR-00242",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-05-12T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00198",
+    "exception_id": "EXC00248",
+    "actor": "APR-00243",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-08-26T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00199",
+    "exception_id": "EXC00249",
+    "actor": "APR-00244",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-05-29T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00200",
+    "exception_id": "EXC00250",
+    "actor": "APR-00245",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-03-18T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00201",
+    "exception_id": "EXC00251",
+    "actor": "APR-00246",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-09-06T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00202",
+    "exception_id": "EXC00252",
+    "actor": "APR-00247",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-02-15T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00203",
+    "exception_id": "EXC00253",
+    "actor": "APR-00248",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-04-25T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00204",
+    "exception_id": "EXC00254",
+    "actor": "APR-00249",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-02-16T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00205",
+    "exception_id": "EXC00255",
+    "actor": "APR-00250",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-11-03T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00206",
+    "exception_id": "EXC00256",
+    "actor": "APR-00251",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-02-17T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00207",
+    "exception_id": "EXC00257",
+    "actor": "APR-00252",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-10-19T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00208",
+    "exception_id": "EXC00259",
+    "actor": "APR-00254",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-11-21T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00209",
+    "exception_id": "EXC00260",
+    "actor": "APR-00255",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-08-03T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00210",
+    "exception_id": "EXC00262",
+    "actor": "APR-00257",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-12-20T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00211",
+    "exception_id": "EXC00263",
+    "actor": "APR-00258",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2026-01-26T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00212",
+    "exception_id": "EXC00264",
+    "actor": "APR-00259",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-09-19T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00213",
+    "exception_id": "EXC00265",
+    "actor": "APR-00260",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-04-24T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00214",
+    "exception_id": "EXC00267",
+    "actor": "APR-00262",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2026-03-03T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00215",
+    "exception_id": "EXC00268",
+    "actor": "APR-00263",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-07-01T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00216",
+    "exception_id": "EXC00269",
+    "actor": "APR-00264",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-06-28T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00217",
+    "exception_id": "EXC00270",
+    "actor": "APR-00265",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-08-11T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00218",
+    "exception_id": "EXC00271",
+    "actor": "APR-00266",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-11-20T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00219",
+    "exception_id": "EXC00272",
+    "actor": "APR-00267",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-11-03T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00220",
+    "exception_id": "EXC00274",
+    "actor": "APR-00269",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-06-07T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00221",
+    "exception_id": "EXC00275",
+    "actor": "APR-00270",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-12-27T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00222",
+    "exception_id": "EXC00277",
+    "actor": "APR-00272",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-11-10T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00223",
+    "exception_id": "EXC00278",
+    "actor": "APR-00273",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-06-09T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00224",
+    "exception_id": "EXC00280",
+    "actor": "APR-00275",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-02-17T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00225",
+    "exception_id": "EXC00281",
+    "actor": "APR-00276",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2026-01-01T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00226",
+    "exception_id": "EXC00282",
+    "actor": "APR-00277",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-08-03T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00227",
+    "exception_id": "EXC00283",
+    "actor": "APR-00278",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2026-01-19T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00228",
+    "exception_id": "EXC00284",
+    "actor": "APR-00279",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-02-04T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00229",
+    "exception_id": "EXC00285",
+    "actor": "APR-00280",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-07-06T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00230",
+    "exception_id": "EXC00286",
+    "actor": "APR-00281",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-08-17T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00231",
+    "exception_id": "EXC00287",
+    "actor": "APR-00282",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-07-03T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00232",
+    "exception_id": "EXC00288",
+    "actor": "APR-00283",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-10-27T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00233",
+    "exception_id": "EXC00289",
+    "actor": "APR-00284",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-09-02T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00234",
+    "exception_id": "EXC00291",
+    "actor": "APR-00286",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-09-11T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00235",
+    "exception_id": "EXC00292",
+    "actor": "APR-00287",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-11-21T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00236",
+    "exception_id": "EXC00293",
+    "actor": "APR-00288",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2026-01-19T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00237",
+    "exception_id": "EXC00294",
+    "actor": "APR-00289",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-12-03T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00238",
+    "exception_id": "EXC00296",
+    "actor": "APR-00291",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-07-18T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00239",
+    "exception_id": "EXC00297",
+    "actor": "APR-00292",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2026-02-01T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00240",
+    "exception_id": "EXC00299",
+    "actor": "APR-00294",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-07-20T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00241",
+    "exception_id": "EXC00300",
+    "actor": "APR-00295",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-11-26T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00242",
+    "exception_id": "EXC00301",
+    "actor": "APR-00296",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-12-14T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00243",
+    "exception_id": "EXC00302",
+    "actor": "APR-00297",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-04-29T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00244",
+    "exception_id": "EXC00303",
+    "actor": "APR-00298",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2026-01-11T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00245",
+    "exception_id": "EXC00304",
+    "actor": "APR-00299",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-05-14T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00246",
+    "exception_id": "EXC00305",
+    "actor": "APR-00300",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-12-12T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00247",
+    "exception_id": "EXC00306",
+    "actor": "APR-00301",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-05-18T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00248",
+    "exception_id": "EXC00308",
+    "actor": "APR-00137",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-02-09T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00249",
+    "exception_id": "EXC00309",
+    "actor": "APR-00303",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2026-04-22T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00250",
+    "exception_id": "EXC00310",
+    "actor": "APR-00304",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-02-27T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00251",
+    "exception_id": "EXC00311",
+    "actor": "APR-00305",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-06-26T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00252",
+    "exception_id": "EXC00313",
+    "actor": "APR-00307",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-10-10T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00253",
+    "exception_id": "EXC00315",
+    "actor": "APR-00309",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-09-25T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00254",
+    "exception_id": "EXC00316",
+    "actor": "APR-00310",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-10-18T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00255",
+    "exception_id": "EXC00317",
+    "actor": "APR-00311",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-07-13T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00256",
+    "exception_id": "EXC00318",
+    "actor": "APR-00312",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-12-03T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00257",
+    "exception_id": "EXC00319",
+    "actor": "APR-00313",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2026-04-03T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00258",
+    "exception_id": "EXC00322",
+    "actor": "APR-00316",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-06-20T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00259",
+    "exception_id": "EXC00325",
+    "actor": "APR-00319",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-12-25T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00260",
+    "exception_id": "EXC00326",
+    "actor": "APR-00320",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-12-25T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00261",
+    "exception_id": "EXC00327",
+    "actor": "APR-00321",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2026-01-27T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00262",
+    "exception_id": "EXC00328",
+    "actor": "APR-00322",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-02-23T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00263",
+    "exception_id": "EXC00330",
+    "actor": "APR-00324",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-02-01T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00264",
+    "exception_id": "EXC00331",
+    "actor": "APR-00325",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2026-03-09T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00265",
+    "exception_id": "EXC00332",
+    "actor": "APR-00326",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-07-14T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00266",
+    "exception_id": "EXC00334",
+    "actor": "APR-00328",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-02-10T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00267",
+    "exception_id": "EXC00336",
+    "actor": "APR-00330",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-01-20T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00268",
+    "exception_id": "EXC00337",
+    "actor": "APR-00331",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-12-20T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00269",
+    "exception_id": "EXC00339",
+    "actor": "APR-00333",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-07-11T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00270",
+    "exception_id": "EXC00340",
+    "actor": "APR-00334",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-12-17T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00271",
+    "exception_id": "EXC00341",
+    "actor": "APR-00335",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-12-17T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00272",
+    "exception_id": "EXC00342",
+    "actor": "APR-00336",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-05-01T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00273",
+    "exception_id": "EXC00343",
+    "actor": "APR-00337",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-11-14T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00274",
+    "exception_id": "EXC00344",
+    "actor": "APR-00338",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-03-05T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00275",
+    "exception_id": "EXC00345",
+    "actor": "APR-00339",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-08-27T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00276",
+    "exception_id": "EXC00346",
+    "actor": "APR-00340",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-08-19T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00277",
+    "exception_id": "EXC00348",
+    "actor": "APR-00342",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-04-26T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00278",
+    "exception_id": "EXC00349",
+    "actor": "APR-00343",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-11-16T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00279",
+    "exception_id": "EXC00350",
+    "actor": "APR-00344",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-01-24T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00280",
+    "exception_id": "EXC00351",
+    "actor": "APR-00345",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2026-03-27T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00281",
+    "exception_id": "EXC00352",
+    "actor": "APR-00346",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-08-04T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00282",
+    "exception_id": "EXC00353",
+    "actor": "APR-00347",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-05-15T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00283",
+    "exception_id": "EXC00354",
+    "actor": "APR-00348",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-09-19T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00284",
+    "exception_id": "EXC00355",
+    "actor": "APR-00349",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-08-05T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00285",
+    "exception_id": "EXC00356",
+    "actor": "APR-00350",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-04-12T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00286",
+    "exception_id": "EXC00357",
+    "actor": "APR-00351",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-06-18T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00287",
+    "exception_id": "EXC00359",
+    "actor": "APR-00353",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-11-17T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00288",
+    "exception_id": "EXC00361",
+    "actor": "APR-00355",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-06-14T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00289",
+    "exception_id": "EXC00362",
+    "actor": "APR-00356",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-05-31T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00290",
+    "exception_id": "EXC00363",
+    "actor": "APR-00357",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-05-25T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00291",
+    "exception_id": "EXC00364",
+    "actor": "APR-00358",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-12-17T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00292",
+    "exception_id": "EXC00365",
+    "actor": "APR-00359",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-08-14T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00293",
+    "exception_id": "EXC00367",
+    "actor": "APR-00361",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-05-25T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00294",
+    "exception_id": "EXC00368",
+    "actor": "APR-00362",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-10-25T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00295",
+    "exception_id": "EXC00369",
+    "actor": "APR-00363",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2026-04-01T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00296",
+    "exception_id": "EXC00370",
+    "actor": "APR-00364",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-02-21T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00297",
+    "exception_id": "EXC00371",
+    "actor": "APR-00365",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-08-26T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00298",
+    "exception_id": "EXC00372",
+    "actor": "APR-00366",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-08-23T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00299",
+    "exception_id": "EXC00375",
+    "actor": "APR-00369",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-06-23T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00300",
+    "exception_id": "EXC00376",
+    "actor": "APR-00370",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-07-05T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00301",
+    "exception_id": "EXC00377",
+    "actor": "APR-00371",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2026-04-02T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00302",
+    "exception_id": "EXC00378",
+    "actor": "APR-00372",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-03-11T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00303",
+    "exception_id": "EXC00379",
+    "actor": "APR-00373",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2026-02-05T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00304",
+    "exception_id": "EXC00381",
+    "actor": "APR-00375",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-12-11T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00305",
+    "exception_id": "EXC00382",
+    "actor": "APR-00376",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-11-03T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00306",
+    "exception_id": "EXC00383",
+    "actor": "APR-00377",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-07-19T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00307",
+    "exception_id": "EXC00384",
+    "actor": "APR-00378",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-12-28T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00308",
+    "exception_id": "EXC00385",
+    "actor": "APR-00379",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-07-05T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00309",
+    "exception_id": "EXC00386",
+    "actor": "APR-00380",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-02-24T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00310",
+    "exception_id": "EXC00387",
+    "actor": "APR-00032",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-06-23T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00311",
+    "exception_id": "EXC00388",
+    "actor": "APR-00381",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-12-16T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00312",
+    "exception_id": "EXC00390",
+    "actor": "APR-00230",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-05-22T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00313",
+    "exception_id": "EXC00393",
+    "actor": "APR-00384",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-11-13T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00314",
+    "exception_id": "EXC00395",
+    "actor": "APR-00386",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-06-16T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00315",
+    "exception_id": "EXC00396",
+    "actor": "APR-00387",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-10-15T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00316",
+    "exception_id": "EXC00397",
+    "actor": "APR-00388",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-06-09T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00317",
+    "exception_id": "EXC00398",
+    "actor": "APR-00389",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-02-27T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00318",
+    "exception_id": "EXC00403",
+    "actor": "APR-00394",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-06-14T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00319",
+    "exception_id": "EXC00404",
+    "actor": "APR-00395",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-07-24T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00320",
+    "exception_id": "EXC00405",
+    "actor": "APR-00396",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-10-09T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00321",
+    "exception_id": "EXC00406",
+    "actor": "APR-00397",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-08-06T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00322",
+    "exception_id": "EXC00407",
+    "actor": "APR-00398",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-11-28T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00323",
+    "exception_id": "EXC00408",
+    "actor": "APR-00399",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-06-19T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00324",
+    "exception_id": "EXC00409",
+    "actor": "APR-00400",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-12-01T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00325",
+    "exception_id": "EXC00410",
+    "actor": "APR-00401",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-09-19T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00326",
+    "exception_id": "EXC00411",
+    "actor": "APR-00402",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-10-02T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00327",
+    "exception_id": "EXC00412",
+    "actor": "APR-00329",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-12-26T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00328",
+    "exception_id": "EXC00413",
+    "actor": "APR-00403",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-06-05T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00329",
+    "exception_id": "EXC00414",
+    "actor": "APR-00404",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-12-19T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00330",
+    "exception_id": "EXC00415",
+    "actor": "APR-00405",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-11-15T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00331",
+    "exception_id": "EXC00416",
+    "actor": "APR-00406",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-06-07T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00332",
+    "exception_id": "EXC00417",
+    "actor": "APR-00407",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-10-23T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00333",
+    "exception_id": "EXC00418",
+    "actor": "APR-00408",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-11-29T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00334",
+    "exception_id": "EXC00421",
+    "actor": "APR-00411",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-05-06T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00335",
+    "exception_id": "EXC00422",
+    "actor": "APR-00412",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-08-24T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00336",
+    "exception_id": "EXC00423",
+    "actor": "APR-00413",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-10-22T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00337",
+    "exception_id": "EXC00424",
+    "actor": "APR-00414",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-10-22T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00338",
+    "exception_id": "EXC00425",
+    "actor": "APR-00415",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-07-30T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00339",
+    "exception_id": "EXC00426",
+    "actor": "APR-00416",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-07-29T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00340",
+    "exception_id": "EXC00427",
+    "actor": "APR-00417",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-04-27T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00341",
+    "exception_id": "EXC00428",
+    "actor": "APR-00418",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-12-24T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00342",
+    "exception_id": "EXC00430",
+    "actor": "APR-00420",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-01-13T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00343",
+    "exception_id": "EXC00431",
+    "actor": "APR-00421",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-08-21T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00344",
+    "exception_id": "EXC00432",
+    "actor": "APR-00422",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-06-05T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00345",
+    "exception_id": "EXC00433",
+    "actor": "APR-00423",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-12-04T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00346",
+    "exception_id": "EXC00434",
+    "actor": "APR-00424",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-12-11T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00347",
+    "exception_id": "EXC00435",
+    "actor": "APR-00425",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-06-22T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00348",
+    "exception_id": "EXC00436",
+    "actor": "APR-00426",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-08-26T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00349",
+    "exception_id": "EXC00437",
+    "actor": "APR-00427",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-07-07T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00350",
+    "exception_id": "EXC00438",
+    "actor": "APR-00428",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-07-05T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00351",
+    "exception_id": "EXC00439",
+    "actor": "APR-00429",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-08-24T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00352",
+    "exception_id": "EXC00441",
+    "actor": "APR-00431",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-10-09T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00353",
+    "exception_id": "EXC00442",
+    "actor": "APR-00432",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-09-12T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00354",
+    "exception_id": "EXC00443",
+    "actor": "APR-00433",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-06-29T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00355",
+    "exception_id": "EXC00444",
+    "actor": "APR-00434",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-06-22T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00356",
+    "exception_id": "EXC00445",
+    "actor": "APR-00435",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-12-16T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00357",
+    "exception_id": "EXC00446",
+    "actor": "APR-00436",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-09-09T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00358",
+    "exception_id": "EXC00447",
+    "actor": "APR-00437",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-11-29T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00359",
+    "exception_id": "EXC00448",
+    "actor": "APR-00438",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-08-05T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00360",
+    "exception_id": "EXC00450",
+    "actor": "APR-00440",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-07-04T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00361",
+    "exception_id": "EXC00452",
+    "actor": "APR-00442",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-09-12T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00362",
+    "exception_id": "EXC00454",
+    "actor": "APR-00220",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-06-19T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00363",
+    "exception_id": "EXC00455",
+    "actor": "APR-00444",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2026-01-04T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00364",
+    "exception_id": "EXC00456",
+    "actor": "APR-00445",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-10-26T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00365",
+    "exception_id": "EXC00457",
+    "actor": "APR-00446",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-10-16T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00366",
+    "exception_id": "EXC00458",
+    "actor": "APR-00447",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-07-09T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00367",
+    "exception_id": "EXC00459",
+    "actor": "APR-00448",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-11-25T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00368",
+    "exception_id": "EXC00460",
+    "actor": "APR-00449",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-08-23T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00369",
+    "exception_id": "EXC00461",
+    "actor": "APR-00410",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-09-02T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00370",
+    "exception_id": "EXC00462",
+    "actor": "APR-00450",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-07-27T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00371",
+    "exception_id": "EXC00464",
+    "actor": "APR-00452",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-12-07T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00372",
+    "exception_id": "EXC00465",
+    "actor": "APR-00063",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-11-23T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00373",
+    "exception_id": "EXC00467",
+    "actor": "APR-00454",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-12-01T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00374",
+    "exception_id": "EXC00468",
+    "actor": "APR-00455",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-05-12T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00375",
+    "exception_id": "EXC00470",
+    "actor": "APR-00265",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-10-05T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00376",
+    "exception_id": "EXC00473",
+    "actor": "APR-00459",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-12-26T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00377",
+    "exception_id": "EXC00474",
+    "actor": "APR-00460",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-06-29T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00378",
+    "exception_id": "EXC00475",
+    "actor": "APR-00461",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-10-09T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00379",
+    "exception_id": "EXC00476",
+    "actor": "APR-00462",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-11-22T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00380",
+    "exception_id": "EXC00477",
+    "actor": "APR-00463",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-12-06T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00381",
+    "exception_id": "EXC00478",
+    "actor": "APR-00464",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-09-14T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00382",
+    "exception_id": "EXC00479",
+    "actor": "APR-00465",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-10-14T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00383",
+    "exception_id": "EXC00480",
+    "actor": "APR-00466",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-07-03T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00384",
+    "exception_id": "EXC00482",
+    "actor": "APR-00468",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-10-20T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00385",
+    "exception_id": "EXC00483",
+    "actor": "APR-00469",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-09-24T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00386",
+    "exception_id": "EXC00484",
+    "actor": "APR-00470",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-11-15T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00387",
+    "exception_id": "EXC00485",
+    "actor": "APR-00471",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-04-30T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00388",
+    "exception_id": "EXC00486",
+    "actor": "APR-00472",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-11-06T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00389",
+    "exception_id": "EXC00487",
+    "actor": "APR-00473",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-09-08T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00390",
+    "exception_id": "EXC00489",
+    "actor": "APR-00475",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-09-14T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00391",
+    "exception_id": "EXC00490",
+    "actor": "APR-00476",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-08-20T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00392",
+    "exception_id": "EXC00491",
+    "actor": "APR-00477",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-08-29T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00393",
+    "exception_id": "EXC00492",
+    "actor": "APR-00478",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-05-25T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00394",
+    "exception_id": "EXC00493",
+    "actor": "APR-00479",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-06-03T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00395",
+    "exception_id": "EXC00494",
+    "actor": "APR-00480",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-12-28T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00396",
+    "exception_id": "EXC00495",
+    "actor": "APR-00481",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-06-29T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00397",
+    "exception_id": "EXC00497",
+    "actor": "APR-00483",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-12-02T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00398",
+    "exception_id": "EXC00498",
+    "actor": "APR-00484",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-06-12T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00399",
+    "exception_id": "EXC00499",
+    "actor": "APR-00485",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-09-17T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00400",
+    "exception_id": "EXC00500",
+    "actor": "APR-00486",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-10-28T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00401",
+    "exception_id": "EXC00501",
+    "actor": "APR-00487",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-11-25T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00402",
+    "exception_id": "EXC00502",
+    "actor": "APR-00488",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-11-04T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00403",
+    "exception_id": "EXC00503",
+    "actor": "APR-00489",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-08-27T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00404",
+    "exception_id": "EXC00504",
+    "actor": "APR-00490",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-06-16T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00405",
+    "exception_id": "EXC00505",
+    "actor": "APR-00491",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-05-12T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00406",
+    "exception_id": "EXC00507",
+    "actor": "APR-00493",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-06-05T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00407",
+    "exception_id": "EXC00508",
+    "actor": "APR-00126",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-11-19T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00408",
+    "exception_id": "EXC00510",
+    "actor": "APR-00495",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-12-12T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00409",
+    "exception_id": "EXC00511",
+    "actor": "APR-00496",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-09-27T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00410",
+    "exception_id": "EXC00513",
+    "actor": "APR-00498",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-09-22T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00411",
+    "exception_id": "EXC00515",
+    "actor": "APR-00500",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-12-30T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00412",
+    "exception_id": "EXC00517",
+    "actor": "APR-00502",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-05-11T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00413",
+    "exception_id": "EXC00518",
+    "actor": "APR-00503",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-12-09T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00414",
+    "exception_id": "EXC00519",
+    "actor": "APR-00504",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-10-04T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00415",
+    "exception_id": "EXC00520",
+    "actor": "APR-00505",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-07-29T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00416",
+    "exception_id": "EXC00521",
+    "actor": "APR-00506",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-07-20T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00417",
+    "exception_id": "EXC00522",
+    "actor": "APR-00507",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-10-31T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00418",
+    "exception_id": "EXC00523",
+    "actor": "APR-00508",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-12-19T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00419",
+    "exception_id": "EXC00524",
+    "actor": "APR-00509",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-06-19T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00420",
+    "exception_id": "EXC00525",
+    "actor": "APR-00510",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-12-07T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00421",
+    "exception_id": "EXC00526",
+    "actor": "APR-00511",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-08-16T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00422",
+    "exception_id": "EXC00527",
+    "actor": "APR-00085",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-12-02T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00423",
+    "exception_id": "EXC00528",
+    "actor": "APR-00512",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-10-22T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00424",
+    "exception_id": "EXC00530",
+    "actor": "APR-00514",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-08-28T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00425",
+    "exception_id": "EXC00531",
+    "actor": "APR-00515",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-11-18T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00426",
+    "exception_id": "EXC00532",
+    "actor": "APR-00516",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-12-12T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00427",
+    "exception_id": "EXC00533",
+    "actor": "APR-00517",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-11-20T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00428",
+    "exception_id": "EXC00534",
+    "actor": "APR-00518",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-05-28T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00429",
+    "exception_id": "EXC00536",
+    "actor": "APR-00117",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-12-02T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00430",
+    "exception_id": "EXC00538",
+    "actor": "APR-00521",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-05-11T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00431",
+    "exception_id": "EXC00540",
+    "actor": "APR-00523",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-07-15T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00432",
+    "exception_id": "EXC00541",
+    "actor": "APR-00524",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-08-12T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00433",
+    "exception_id": "EXC00542",
+    "actor": "APR-00525",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-12-01T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00434",
+    "exception_id": "EXC00543",
+    "actor": "APR-00526",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-05-09T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00435",
+    "exception_id": "EXC00545",
+    "actor": "APR-00528",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-10-21T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00436",
+    "exception_id": "EXC00547",
+    "actor": "APR-00530",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-05-14T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00437",
+    "exception_id": "EXC00548",
+    "actor": "APR-00531",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-10-16T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00438",
+    "exception_id": "EXC00549",
+    "actor": "APR-00532",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-04-26T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00439",
+    "exception_id": "EXC00550",
+    "actor": "APR-00533",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-12-06T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00440",
+    "exception_id": "EXC00551",
+    "actor": "APR-00534",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-06-24T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00441",
+    "exception_id": "EXC00553",
+    "actor": "APR-00536",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-10-09T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00442",
+    "exception_id": "EXC00554",
+    "actor": "APR-00537",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-06-27T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00443",
+    "exception_id": "EXC00555",
+    "actor": "APR-00538",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-09-07T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00444",
+    "exception_id": "EXC00556",
+    "actor": "APR-00539",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-07-08T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00445",
+    "exception_id": "EXC00557",
+    "actor": "APR-00540",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-12-15T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00446",
+    "exception_id": "EXC00558",
+    "actor": "APR-00541",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-10-05T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00447",
+    "exception_id": "EXC00559",
+    "actor": "APR-00542",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-06-24T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00448",
+    "exception_id": "EXC00561",
+    "actor": "APR-00544",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-10-29T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00449",
+    "exception_id": "EXC00562",
+    "actor": "APR-00545",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-01-08T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00450",
+    "exception_id": "EXC00565",
+    "actor": "APR-00548",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-05-06T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00451",
+    "exception_id": "EXC00567",
+    "actor": "APR-00550",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-07-07T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00452",
+    "exception_id": "EXC00569",
+    "actor": "APR-00552",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-05-15T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00453",
+    "exception_id": "EXC00570",
+    "actor": "APR-00553",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-05-04T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00454",
+    "exception_id": "EXC00571",
+    "actor": "APR-00554",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-10-14T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00455",
+    "exception_id": "EXC00572",
+    "actor": "APR-00555",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-01-21T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00456",
+    "exception_id": "EXC00573",
+    "actor": "APR-00556",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-10-23T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00457",
+    "exception_id": "EXC00574",
+    "actor": "APR-00557",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-09-14T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00458",
+    "exception_id": "EXC00575",
+    "actor": "APR-00558",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-06-30T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00459",
+    "exception_id": "EXC00576",
+    "actor": "APR-00559",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-06-12T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00460",
+    "exception_id": "EXC00577",
+    "actor": "APR-00560",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-05-12T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00461",
+    "exception_id": "EXC00579",
+    "actor": "APR-00562",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2026-01-01T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00462",
+    "exception_id": "EXC00580",
+    "actor": "APR-00563",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-08-04T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00463",
+    "exception_id": "EXC00581",
+    "actor": "APR-00564",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-05-01T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00464",
+    "exception_id": "EXC00582",
+    "actor": "APR-00565",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-08-01T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00465",
+    "exception_id": "EXC00583",
+    "actor": "APR-00475",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-09-21T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00466",
+    "exception_id": "EXC00584",
+    "actor": "APR-00566",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-11-26T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00467",
+    "exception_id": "EXC00586",
+    "actor": "APR-00568",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-07-26T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00468",
+    "exception_id": "EXC00587",
+    "actor": "APR-00569",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-05-14T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00469",
+    "exception_id": "EXC00588",
+    "actor": "APR-00570",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2025-06-23T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00470",
+    "exception_id": "EXC00589",
+    "actor": "APR-00530",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-10-23T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00471",
+    "exception_id": "EXC00590",
+    "actor": "APR-00571",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2026-01-05T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00472",
+    "exception_id": "EXC00591",
+    "actor": "APR-00572",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-10-26T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00473",
+    "exception_id": "EXC00593",
+    "actor": "APR-00574",
+    "decision": "approved",
+    "comment": "Approved with conditions: mandatory quarterly review required.",
+    "timestamp": "2025-10-23T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00474",
+    "exception_id": "EXC00594",
+    "actor": "APR-00575",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-05-21T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00475",
+    "exception_id": "EXC00595",
+    "actor": "APR-00576",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-10-09T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00476",
+    "exception_id": "EXC00596",
+    "actor": "APR-00577",
+    "decision": "approved",
+    "comment": "Approved: justification accepted; compensating controls verified and documented.",
+    "timestamp": "2026-01-02T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00477",
+    "exception_id": "EXC00598",
+    "actor": "APR-00438",
+    "decision": "approved",
+    "comment": "Risk accepted within policy boundaries; approval granted for specified duration.",
+    "timestamp": "2025-09-13T08:00:00.000Z"
+  },
+  {
+    "id": "APR-00478",
+    "exception_id": "EXC00599",
+    "actor": "APR-00579",
+    "decision": "approved",
+    "comment": "Approved following risk assessment. Expiry date and controls on record.",
+    "timestamp": "2025-06-18T08:00:00.000Z"
+  }
+]

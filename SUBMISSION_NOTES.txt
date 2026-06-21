@@ -1,0 +1,39 @@
+RiskWaiver360 - GRC Process Exception & Policy Waiver Management Platform
+
+Run Instructions:
+
+Backend:
+cd backend
+npm install
+npm run reset-demo
+npm run dev
+
+Frontend:
+cd frontend
+npm install
+npm run dev
+
+Open:
+http://localhost:5173
+
+Demo Accounts:
+Requester:
+requester@riskwaiver360.demo
+Requester@123
+
+Security Reviewer:
+reviewer@riskwaiver360.demo
+Reviewer@123
+
+Approver:
+approver@riskwaiver360.demo
+Approver@123
+
+Auditor/Admin:
+auditor@riskwaiver360.demo
+Auditor@123
+
+Note:
+Captcha is shown on login and must be solved manually.
+This is a hackathon prototype using JSON demo storage and localStorage demo authentication.
+Production version would use SSO/OIDC, backend RBAC, secure sessions, database storage, server-side authorization, and audit-safe actor tracking.

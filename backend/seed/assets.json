@@ -1,0 +1,202 @@
+[
+  {
+    "id": "AST-0001",
+    "name": "Payment Gateway",
+    "type": "application",
+    "criticality": "High",
+    "business_unit": "Payments",
+    "owner_user_id": "USR-0001"
+  },
+  {
+    "id": "AST-0002",
+    "name": "Customer Data Warehouse",
+    "type": "system",
+    "criticality": "Critical",
+    "business_unit": "Customer Analytics",
+    "owner_user_id": "USR-0002"
+  },
+  {
+    "id": "AST-0003",
+    "name": "Core Banking API",
+    "type": "application",
+    "criticality": "Critical",
+    "business_unit": "Core Banking",
+    "owner_user_id": "USR-0008"
+  },
+  {
+    "id": "AST-0004",
+    "name": "Loan Processing System",
+    "type": "application",
+    "criticality": "High",
+    "business_unit": "Lending",
+    "owner_user_id": "USR-0012"
+  },
+  {
+    "id": "AST-0005",
+    "name": "Fraud Monitoring Platform",
+    "type": "system",
+    "criticality": "High",
+    "business_unit": "Risk & Fraud",
+    "owner_user_id": "USR-0013"
+  },
+  {
+    "id": "AST-0006",
+    "name": "Internet Banking Portal",
+    "type": "application",
+    "criticality": "Medium",
+    "business_unit": "Digital Banking",
+    "owner_user_id": "USR-0011"
+  },
+  {
+    "id": "AST-0007",
+    "name": "Production Server Cluster",
+    "type": "system",
+    "criticality": "Critical",
+    "business_unit": "Infrastructure",
+    "owner_user_id": "USR-0003"
+  },
+  {
+    "id": "AST-0008",
+    "name": "KYC Verification Platform",
+    "type": "application",
+    "criticality": "High",
+    "business_unit": "Customer Analytics",
+    "owner_user_id": "USR-0002"
+  },
+  {
+    "id": "AST-0009",
+    "name": "Credit Risk Engine",
+    "type": "application",
+    "criticality": "High",
+    "business_unit": "Core Banking",
+    "owner_user_id": "USR-0029"
+  },
+  {
+    "id": "AST-0010",
+    "name": "Treasury Settlement System",
+    "type": "system",
+    "criticality": "Critical",
+    "business_unit": "Treasury",
+    "owner_user_id": "USR-0008"
+  },
+  {
+    "id": "AST-0011",
+    "name": "SWIFT Messaging Gateway",
+    "type": "system",
+    "criticality": "Critical",
+    "business_unit": "SWIFT Operations",
+    "owner_user_id": "USR-0021"
+  },
+  {
+    "id": "AST-0012",
+    "name": "ATM Switch Network",
+    "type": "system",
+    "criticality": "High",
+    "business_unit": "ATM Operations",
+    "owner_user_id": "USR-0017"
+  },
+  {
+    "id": "AST-0013",
+    "name": "Mobile Banking Application",
+    "type": "application",
+    "criticality": "High",
+    "business_unit": "Mobile Banking",
+    "owner_user_id": "USR-0018"
+  },
+  {
+    "id": "AST-0014",
+    "name": "AML Screening System",
+    "type": "application",
+    "criticality": "Critical",
+    "business_unit": "AML & Compliance",
+    "owner_user_id": "USR-0020"
+  },
+  {
+    "id": "AST-0015",
+    "name": "Trade Finance Platform",
+    "type": "application",
+    "criticality": "High",
+    "business_unit": "Trade Finance",
+    "owner_user_id": "USR-0015"
+  },
+  {
+    "id": "AST-0016",
+    "name": "Wealth Management Portal",
+    "type": "application",
+    "criticality": "Medium",
+    "business_unit": "Wealth Management",
+    "owner_user_id": "USR-0016"
+  },
+  {
+    "id": "AST-0017",
+    "name": "Regulatory Reporting Engine",
+    "type": "system",
+    "criticality": "Critical",
+    "business_unit": "Compliance",
+    "owner_user_id": "USR-0014"
+  },
+  {
+    "id": "AST-0018",
+    "name": "Data Lake Platform",
+    "type": "system",
+    "criticality": "High",
+    "business_unit": "Data Engineering",
+    "owner_user_id": "USR-0027"
+  },
+  {
+    "id": "AST-0019",
+    "name": "Card Management System",
+    "type": "application",
+    "criticality": "High",
+    "business_unit": "Payments",
+    "owner_user_id": "USR-0001"
+  },
+  {
+    "id": "AST-0020",
+    "name": "Backup & Recovery System",
+    "type": "system",
+    "criticality": "Medium",
+    "business_unit": "Infrastructure",
+    "owner_user_id": "USR-0023"
+  },
+  {
+    "id": "AST-0021",
+    "name": "Identity & Access Platform",
+    "type": "system",
+    "criticality": "Critical",
+    "business_unit": "Information Security",
+    "owner_user_id": "USR-0004"
+  },
+  {
+    "id": "AST-0022",
+    "name": "SIEM Platform",
+    "type": "system",
+    "criticality": "High",
+    "business_unit": "Information Security",
+    "owner_user_id": "USR-0022"
+  },
+  {
+    "id": "AST-0023",
+    "name": "Customer Onboarding Portal",
+    "type": "application",
+    "criticality": "Medium",
+    "business_unit": "Customer Service",
+    "owner_user_id": "USR-0026"
+  },
+  {
+    "id": "AST-0024",
+    "name": "HR Management System",
+    "type": "application",
+    "criticality": "Low",
+    "business_unit": "Human Resources",
+    "owner_user_id": "USR-0023"
+  },
+  {
+    "id": "AST-0025",
+    "name": "Vendor Payment Portal",
+    "type": "application",
+    "criticality": "High",
+    "business_unit": "Treasury",
+    "owner_user_id": "USR-0010"
+  }
+]

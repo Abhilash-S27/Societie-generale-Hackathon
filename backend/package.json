@@ -1,0 +1,16 @@
+{
+  "name": "riskwaiver360-backend",
+  "version": "1.0.0",
+  "description": "RiskWaiver360 backend — GRC exception & policy waiver management API (Express + JSON storage).",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "reset-demo": "node scripts/reset-demo-data.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}

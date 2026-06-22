@@ -1,4 +1,4 @@
-# Dependencies
+﻿# Dependencies
 node_modules/
 .pnp
 .pnp.js
@@ -35,10 +35,11 @@ docs/pptx-gen/.cache/
 docs/pptx-gen/slides/debug-*.png
 docs/pptx-gen/screenshot-app.js
 
-# Large video files
-*.mp4
+# Large video files (>100MB)
+# docs/Video.mp4 is allowed - compressed to 35MB
 *.mov
 *.avi
 
 # Slide QA thumbnails (generated locally)
 docs/pptx-gen/slides/slide-*.png
+
